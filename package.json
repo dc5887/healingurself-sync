@@ -1,0 +1,8 @@
+{
+  "name": "healingurself-sync",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "framer-api": "*"
+  }
+}
